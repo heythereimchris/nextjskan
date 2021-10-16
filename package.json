@@ -1,0 +1,17 @@
+{
+  "name": "next-muuri-react",
+  "description": "A simple starter to get up and developing quickly with Next and Muuri-react",
+  "version": "1.0.0",
+  "dependencies": {
+    "muuri": "0.8.0",
+    "muuri-react": "3.0.0",
+    "next": "9.3.0",
+    "react": "16.13.0",
+    "react-dom": "16.13.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
